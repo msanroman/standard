@@ -1,0 +1,16 @@
+{
+  "name": "@msanroman/prettier",
+  "version": "0.0.1",
+  "description": "Config files for low-level standards across projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msanroman/standard.git",
+    "directory": "prettier"
+  },
+  "author": "Mike San Román <mike@msanroman.io>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
